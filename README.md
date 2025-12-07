@@ -59,11 +59,6 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=HaeinSeo&show_icons=true&theme=chartreuse&hide_border=true&count_private=true&title_color=F973C9&icon_color=FF69B4"
-    alt="Haein's GitHub Stats"
-    width="48%"
-  />
-  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=HaeinSeo&theme=chartreuse&hide_border=true&stroke=F973C9&ring=F973C9&fire=FF69B4"
     alt="GitHub Streak"
     width="48%"
