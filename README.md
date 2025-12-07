@@ -8,8 +8,8 @@
 
 <div align="center">
   <img
-    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc3cXh4MGQ5YnA1Y2lvcXNtOHhtMzY4YmVuOGhtNWVqazdlajg0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wIUQQ07BHzDry/giphy.gif"
-    alt="Cute Coding GIF"
+    src="https://media2.giphy.com/media/wIUQQ07BHzDry/giphy.gif"
+    alt="Coding Cat"
     width="80"
     height="80"
   />
@@ -17,14 +17,14 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Cute+Font&size=24&pause=1000&color=F973C9&center=true&vCenter=true&width=600&lines=Vision+AI+%7C+XAI+%7C+AI+Security;Multi-modal+NLP+%26+Medical+AI+Researcher;Making+AI+Explainable+%26+Trustworthy+✨;A+Researcher+coding+for+a+better+world!+💖"
+    src="https://readme-typing-svg.demolab.com?font=Cute+Font&size=24&duration=2000&pause=1000&color=F973C9&center=true&vCenter=true&width=650&lines=Vision+AI+%7C+XAI+%7C+AI+Security;Multi-modal+NLP+%26+Medical+AI+Researcher;Making+AI+Explainable+%26+Trustworthy+✨;Coding+for+a+Better+World+💖"
     alt="Typing SVG"
   />
 </div>
 
 <p align="center">
   I build <b>Vision AI</b>, <b>privacy-preserving AI security</b>, and
-  <b>multi-modal NLP systems</b> with a strong focus on <b>explainability</b> and
+  <b>multi-modal NLP systems</b> with a focus on <b>explainability</b> and
   <b>real-world medical applications</b>.
 </p>
 
@@ -38,32 +38,32 @@
   <tr>
     <th>Area</th>
     <th>Key Focus</th>
-    <th>Visual Badge</th>
+    <th>Badge</th>
   </tr>
   <tr>
     <td><b>Computer Vision (CV)</b></td>
     <td>Vision-Language Models (VLM)</td>
-    <td>👁️‍🗨️ &nbsp; <img src="https://img.shields.io/badge/VLM-FF69B4?style=for-the-badge&logo=pytorch&logoColor=white" alt="VLM" /></td>
+    <td>👁️‍🗨️ &nbsp; <img src="https://img.shields.io/badge/VLM-FF69B4?style=for-the-badge&logo=pytorch&logoColor=white" /></td>
   </tr>
   <tr>
     <td><b>Explainable AI (XAI)</b></td>
     <td>SHAP, LIME, Model Transparency</td>
-    <td>💡 &nbsp; <img src="https://img.shields.io/badge/XAI-00C4A7?style=for-the-badge&logo=google&logoColor=white" alt="XAI" /></td>
+    <td>💡 &nbsp; <img src="https://img.shields.io/badge/XAI-00C4A7?style=for-the-badge&logo=google&logoColor=white" /></td>
   </tr>
   <tr>
     <td><b>AI Security</b></td>
     <td>Privacy-preserving ML</td>
-    <td>🔒 &nbsp; <img src="https://img.shields.io/badge/AI_Security-000000?style=for-the-badge&logo=dependabot&logoColor=white" alt="AI Security" /></td>
+    <td>🔒 &nbsp; <img src="https://img.shields.io/badge/AI_Security-000000?style=for-the-badge&logo=dependabot&logoColor=white" /></td>
   </tr>
   <tr>
     <td><b>NLP &amp; Data Analytics</b></td>
     <td>RAG, Biomedical Text Mining</td>
-    <td>✍️ &nbsp; <img src="https://img.shields.io/badge/NLP-4B0082?style=for-the-badge&logo=openai&logoColor=white" alt="NLP" /></td>
+    <td>✍️ &nbsp; <img src="https://img.shields.io/badge/NLP-4B0082?style=for-the-badge&logo=openai&logoColor=white" /></td>
   </tr>
   <tr>
     <td><b>AI Modeling</b></td>
     <td>CNN, ResNet, YOLO, RF, XGBoost</td>
-    <td>🧠 &nbsp; <img src="https://img.shields.io/badge/Modeling-FFA500?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Modeling" /></td>
+    <td>🧠 &nbsp; <img src="https://img.shields.io/badge/Modeling-FFA500?style=for-the-badge&logo=tensorflow&logoColor=white" /></td>
   </tr>
 </table>
 
@@ -74,19 +74,16 @@
 <h3 align="center">🛠 Tech Stack</h3>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda,jupyter,github&perline=4"
-    alt="Tech Stack Icons"
-  />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda,github" />
 </p>
 
 <div align="center">
   <p>
     ✨ <b>Data Science &amp; Frameworks</b> ✨<br/>
-    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/Matplotlib-111B31?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/Matplotlib-111B31?style=flat-square&logo=matplotlib&logoColor=white" />
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   </p>
 </div>
 
@@ -107,12 +104,12 @@
 
 <div align="center">
   <a href="mailto:anegla040918@duksung.ac.kr">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-F973C9?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/hae-in-seo-3278032bb/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-4B9CE5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=HaeinSeo&color=F973C9" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=HaeinSeo&color=F973C9" />
 </div>
 
 <br/>
