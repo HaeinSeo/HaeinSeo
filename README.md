@@ -8,8 +8,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Cute+font&size=24&pause=1000&color=F973C9&center=true&vCenter=true&width=700&lines=Vision+AI+%7C+XAI+%7C+AI+Security;Multi-modal+NLP+%26+Medical+AI+Researcher;Making+AI+Explainable+%26+Trustworthy+✨;A+Researcher+coding+for+a+better+world!+💖"
-    alt="Typing SVG"
+    src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc3cXh4MGQ5YnA1Y2lvcXNtOHhtMzY4YmVuOGhtNWVqazdlajg0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wIUQQ07BHzDry/giphy.gif"
   />
 </div>
 
@@ -73,10 +72,6 @@
 ---
 
 <h3 align="center">💖 Connect with Me!</h3>
-
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc3cXh4MGQ5YnA1Y2lvcXNtOHhtMzY4YmVuOGhtNWVqazdlajg0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wIUQQ07BHzDry/giphy.gif" alt="Cute Coding GIF" width="80" height="80"/>
-</div>
 
 <div align="center">
   <a href="mailto:anegla040918@duksung.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
