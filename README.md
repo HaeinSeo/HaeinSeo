@@ -80,6 +80,8 @@
   <img src="https://komarev.com/ghpvc/?username=HaeinSeo&color=F973C9" alt="Profile views" />
 </div>
 
+<br/>
+
 <p align="center">
   <em>Thank you for visiting! Happy Coding! 💻</em>
 </p>
