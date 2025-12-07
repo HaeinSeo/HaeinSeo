@@ -15,17 +15,13 @@
   />
 </div>
 
-<div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Cute+Font&size=24&duration=2000&pause=1000&color=F973C9&center=true&vCenter=true&width=650&lines=Vision+AI+%7C+XAI+%7C+AI+Security;Multi-modal+NLP+%26+Medical+AI+Researcher;Making+AI+Explainable+%26+Trustworthy+✨;Coding+for+a+Better+World+💖"
-  />
-</div>
 
 <p align="center">
-  I build <b>Vision AI</b>, <b>privacy-preserving AI security</b>, and
-  <b>multi-modal NLP systems</b> with a focus on <b>explainability</b> and
+  I'm currently studying <b>Vision AI</b>, <b>privacy-preserving AI security</b>,
+  and <b>multi-modal NLP systems</b> with a focus on <b>explainability</b> and
   <b>real-world medical applications</b>.
 </p>
+
 
 ---
 
