@@ -39,7 +39,6 @@
   <img src="https://skillicons.dev/icons?i=python" alt="Python" />
   <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
   <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" />
-  <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </p>
 
