@@ -86,12 +86,21 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=HaeinSeo&theme=chartreuse&hide_border=true&stroke=F973C9&ring=F973C9&fire=FF69B4"
-    alt="GitHub Streak"
-  />
-</div>
+<p align="center">
+  <a href="https://github.com/HaeinSeo?tab=overview">
+    <img
+      src="./profile/streak.svg"
+      alt="Haein's total contributions, current streak, and longest streak"
+      width="495"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HaeinSeo?tab=overview">
+    View my GitHub activity →
+  </a>
+</p>
 
 ---
 
